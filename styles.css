@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+  }
+  
+  h1 {font-size: 24px;}
+  h1 {font-family: cursive;}
+  h1 {font-weight: bold;}
+
+  h2 {font-size: 20px;}
+  h2 {font-weight: bold;}
+  h2 {color: #0000ff}
+
+  h3 {font-size: 16px;}
+  h3 {color: teal}
+  h3 {font-weight: bold;}
+
+  p {color: #4D4D4D;}
+
+  .eerste p {
+    color:#4D4D4D }
+
+  a {color: #8A2BE2}
